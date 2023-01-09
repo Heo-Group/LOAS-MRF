@@ -1,0 +1,1 @@
+python RF_optimization.py --gpu 0 --result result --batch 256 --epochs 200 --ds 40 
